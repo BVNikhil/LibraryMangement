@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "name": "Book 1",
+            "author": "Mr.A",
+            "date": "20/01/2001",
+            "type": "others"
+        },
+        {
+            "name": "Book 2",
+            "author": "Mr.B",
+            "date": "20/01/2001",
+            "type": "others"
+        },
+        {
+            "name": "Book 3",
+            "author": "Mr.C",
+            "date": "15/02/2002",
+            "type": "others"
+        },
+        {
+            "name": "java-beginners guide",
+            "author": "Kathy Sierra",
+            "date": "28/01/2012",
+            "type": "programming"
+        },
+        {
+            "name": "C++ beginners guide",
+            "author": "Kathy Sierra",
+            "date": "10/02/2013",
+            "type": "programming"
+        },
+        {
+            "name": "web development guide",
+            "author": "Angelina Yu",
+            "date": "21/01/2020",
+            "type": "programming"
+        }
+    ]
+}
